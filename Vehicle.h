@@ -9,4 +9,5 @@
 #include <string>
 using namespace std;
 
+// The vehicle class holds general data 
 
