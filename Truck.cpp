@@ -18,7 +18,7 @@ void Truck::displayInfo()
 
 
 	// prompt user to enter information
-	cout << "Car: \n";
+	cout << "Truck: \n";
 	cout << "Enter the manufacturer: ";
 	cin.ignore();
 	getline(cin, manufact);
